@@ -1,0 +1,19 @@
+ let Student = {
+    name: "Raja",
+    age:26
+ }
+
+ let output = `Name of the student is ${Student.name} and age is ${Student.age}`;
+
+ console.log(output);
+
+ // Template literals in string 
+
+ //* A way to write to have embedded expression in string 
+ 
+// `This is calleed as template literal`
+
+
+// String interpolation 
+// To create strings by doing substitution of place holders 
+
